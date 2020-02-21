@@ -102,7 +102,7 @@ void validateUser(){
                 controller: _contraController,
                 obscureText: true,
                 decoration: InputDecoration(
-                  suffixIcon: Icon(Icons.widgets),
+                  suffixIcon: Icon(Icons.remove_red_eye),
                   fillColor: Colors.white,
                   filled: false,
                   enabledBorder: OutlineInputBorder(

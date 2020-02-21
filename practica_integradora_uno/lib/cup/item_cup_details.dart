@@ -103,7 +103,7 @@ void addCart(){
               Padding(
                 padding: const EdgeInsets.fromLTRB(12, 8, 0, 0),
                 child: Text(
-                  "TAMAÑOS DISPONIBLES",
+                  "COLORES DISPONIBLES",
                   style: TextStyle(fontSize: 13),
                 ),
               ),

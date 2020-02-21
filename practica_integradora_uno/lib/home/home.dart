@@ -63,7 +63,7 @@ class _HomeState extends State<Home> {
                       child: ItemHome(
               title: "Tazas",
               image:
-                  "https://lh3.googleusercontent.com/proxy/L6UmagLWgYxF-Xrh2i5f0q6LrvHNEiZBMa5sxM_uV-8MaKGM7eYVjm6tydlaGn6nNPPAf3MGUe34qFXVh45UC80Y-L7OOxH9wyZY9w7j2yk348B593VaTLHs2cY9XlljsfAUtuDYxFA6-skMyA",
+                  "https://www.elplural.com/uploads/s1/34/84/2/cafe.jpeg",
             ),
           ),
         ],
